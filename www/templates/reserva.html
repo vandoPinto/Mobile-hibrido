@@ -1,0 +1,51 @@
+<ion-view title="Pré-reserva" id="page24" style="background-color:#444444;">
+  <ion-content padding="true" class="has-header">
+    <div>
+      <img src="img/lJz7n3jQPe6eZQAX6NeQ_Logo-Clinica-Kenia-Saad_horizontal.png" style="display: block; width: 100%; height: auto; margin-left: auto; margin-right: auto;">
+    </div>
+    <div class="spacer" style="height: 20px;"></div>
+
+    <form id="reserva-form2" class="list" ng-controller ="mailto">
+      <label class="item item-input" id="reserva-input7" name="nome">
+        <span class="input-label">Nome:</span>
+        <input type="text" id="nome" placeholder="Digite seu nome" ng-required="true">
+      </label>
+      
+      <div class="spacer" style="height: 20px;"></div>
+      <label class="item item-input" id="reserva-input7" name="telefone">
+        <span class="input-label">Telefone</span>
+        <input type="tel" id="telefone" placeholder="(xx) xxxxx-xxxx" ng-required="true">
+      </label>
+      <div class="spacer" style="height: 20px;"></div>
+      <label class="item item-input" id="reserva-input1" name="procedimento">
+        <span class="input-label">Procedimento:</span>
+        <input type="text" id="procedimento" placeholder="Tipo de procedimento">
+      </label>
+
+      <div class="spacer" style="height: 20px;"></div>
+      <label class="item item-input" id="reserva-input1" name="data">
+        <span class="input-label">Data:</span>
+        <input type="date" id="data" placeholder="Selecione uma data" ng-required="true">
+      </label>
+
+       <div class="spacer" style="height: 20px;"></div>
+      <label class="item item-input" id="reserva-input1" name="horario">
+        <span class="input-label">Horario:</span>
+        <input type="time" id="horario" placeholder="Selecione um horario" ng-required="true">
+      </label>
+
+      <div class="spacer" style="height: 20px;"></div>
+      <label class="item item-input" id="reserva-input6" name="mensagem">
+        <textarea id="mensagem" cols="40" rows="4" arial-invalid="false" placeholder="Mensagem:"></textarea>
+        
+      </label>
+      <div class="spacer" style="height: 10px;"></div>
+      <div>
+      <a id="reserva-button4" class="button button-balanced  button-block" ng-click="agendar()" href="javascript:;">Agendar</a>
+    </div>
+   <!--   <a href='mailto:esteticakf@gmail.com?subject=Clinica Kênia saad &body=' id="sugestEsTrabalheConosco-button4" class="button button-balanced  button-block" ng-click="EnviarMensagem( document.getElementById('myTextarea').value )">Enviar</a>
+-->
+
+    </form>
+  </ion-content>
+</ion-view>

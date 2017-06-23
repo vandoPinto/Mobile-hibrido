@@ -1,0 +1,299 @@
+{
+  "json": [
+    {
+      "bemEstar": [
+        {
+          "titulo": "Massagem Relaxante",
+          "mensagem": "A Massagem de Relaxamento é uma massagem profunda e relaxante, que restabelece o equilíbrio do corpo e mente. Aplica-se um óleo essencial selecionado e várias técnicas que têm como principal função promover a melhoria da circulação sanguínea, remover substâncias tóxicas, aliviar o stress e restabelecer a área psico-emocional, fisiológica e energética de cada indivíduo."
+        },
+        {
+          "titulo": "Massagem com óleos",
+          "mensagem": ""
+        },
+        {
+          "titulo": "Massagem terapêutica",
+          "mensagem": "Massagens terapêuticas são as que usam as mãos ou aparelhos simples para tratar dores musculares, má circulação de sangue e outros problemas que podem ocorrer no nosso corpo."
+        },
+        {
+          "titulo": "Massagem redutora",
+          "mensagem": "A Massagem Redutora é realizada em partes específicas do corpo, onde existe maior concentração de gordura localizada. A técnica é executada com as mãos, usando movimentos intensos, rápidos e repetitivos, que ativam a circulação, trabalhando a gordura localizada e eliminando as toxinas."
+        },
+        {
+          "titulo": "Massagem Drenagem linfática",
+          "mensagem": "Uma massagem que elimina o inchaço, ajuda a combater celulite e gordurinhas localizadas, desintoxica o organismo e ainda ativa o sistema imunológico. A drenagem linfática consiste em estimular o sistema linfático (uma rede complexa de vasos que movem fluidos pelo corpo) a trabalhar de forma mais acelerada."
+        },
+        {
+          "titulo": "Massagem Ayurvedica",
+          "mensagem": "Atua poderosamente sobre a circulação sanguínea, a respiração e a Energia Vital. Trabalha as cadeias musculares e articulações de todo o corpo, mesclando toques suaves e profundos com alongamentos e trações de Yôga."
+        },
+        {
+          "titulo": "Massagem Ayurvedica",
+          "mensagem": "Excelente para relaxamento e para aliviar o cansaço de pés e mãos. Consiste em uma esfoliação, hidratação e suave massagem relaxante que irá recuperar as suas energias. Ideal para pós Verão."
+        },
+        {
+          "titulo": "Spa dos pés",
+          "mensagem": "Hidromassagem para os pés proporcionando uma massagem extremamente relaxante para os pés do cliente, oferece massagem, aquecimento e a criação de bolhas para relaxar os pés cansados e sofridos da correria do dia a dia."
+        },
+        {
+          "titulo": "Spa Redux",
+          "mensagem": "O Spa Redux é um procedimento que é realizado através da aplicação de três tipos de géis, o redutor, o enzimático, complexo anticelulítico e um creme redutor para realização da massagem modeladora. Após isso, o cliente é envolvido em papel-filme e colocado em uma manta térmica com infravermelho longo. O infravermelho ajuda a acelerar o efeito do produto na pele, para penetrar melhor e ir diretamente para as células gordurosas onde tem mais celulite."
+        }
+      ],
+      "salao": [
+        {
+          "titulo": "Escova de Cabelo",
+          "mensagem": "Nada melhor do que uma bela escovação."
+        },
+        {
+          "titulo": "Lavagem de cabelo",
+          "mensagem": "Que mulher não gosta de ir ao salão cuidar da beleza? A lavagem profissional deixa o cabelo macio, brilhoso, como você nunca conseguiu fazer em casa."
+        },
+        {
+          "titulo": " Aplicação de Tintura",
+          "mensagem": "O tingimento moderno de hoje é um processo químico que adiciona ou remove pigmentos do cabelo. As cores de hoje podem penetrar a raiz do cabelo e te levar de loira à morena e virtualmente qualquer tom entre os dois. A coloração pode ser superficial, cores com duração de poucos dias, poucas semanas ou tingimentos que podem ser usados até que desapareçam."
+        },
+        {
+          "titulo": "Corte de cabelo",
+          "mensagem": "Vários tipos de cortes de cabelos&gt; Feminino, masculino e infantil. Aqui você encontra o profissional certo. Cabelos longos, médios, curtos, anelados, ondulados, lisos, crespos... Todos os tipos de cabelo."
+        },
+        {
+          "titulo": " Progressiva",
+          "mensagem": ">A escova progressiva é um método de alisamento e redução do volume dos cabelos, diminuindo também o frizz. Ela é chamada dessa forma porque, a cada vez que se realiza esse procedimento, o cabelo apresenta melhores resultados nesses quesitos."
+        },
+        {
+          "titulo": "Selagem",
+          "mensagem": "É um tratamento criado no Brasil à base de queratina, que tem a função de fechar as cutículas do fio (ou seja, ela sela a estrutura), quando elas são danificadas por processos químicos, como alisamentos e tintura. A selagem recupera a saúde dos cabelos trazendo mais disciplina, hidratação, resistência e brilho."
+        },
+        {
+          "titulo": "Mechas de cabelo",
+          "mensagem": "A maioria das clientes busca iluminar o visual e existem diversas técnicas que conferem resultados totalmente diferentes. As mechas são aquelas que ficam mais marcadas, com espessura entre 1,5 a 2 cm. Elas iluminam bem o rosto e podem ser feitas não só com descolorante, mas também com coloração, o que deixa os fios mais tratados. Mas isso só pode ser feito em cabelos naturais, que não tenham tintura."
+        },
+        {
+          "titulo": " Luzes",
+          "mensagem": "Chamamos de luzes o processo quando clareamos apenas uma pequena parte dos fios da cliente e buscamos uma aparência bem natural, como de quem pegou um pouco mais de sol. São feitas mechas pequenas, de até 1 cm de espessura. A técnica é indicada para quem quer marcar mais o corte, deixando assim o conjunto mais forte."
+        },
+        {
+          "titulo": " Baby Liss",
+          "mensagem": ""
+        },
+        {
+          "titulo": " Penteados",
+          "mensagem": "Os penteados encantam a todas nós mulheres como mágica, talvez pela sua delicadeza ou pelo simples fato de que geralmente é visto apenas em grandes eventos ou datas comemorativas. Mas não é bem assim, existem penteados lindíssimos que você usar até mesmo no dia a dia."
+        },
+        {
+          "titulo": " Hidratação com ampolas",
+          "mensagem": ""
+        },
+        {
+          "titulo": " Reconstrução + Escova",
+          "mensagem": ""
+        },
+        {
+          "titulo": " Nutrição + Escova",
+          "mensagem": "Nutrição capilar é a reposição de lipídios nos cabelos. Lípidios são substâncias não solúveis em água, como óleos e gorduras, ou seja, este tipo de tratamento tem a função de promover lubrificação aos fios, que é essencial para diminuir a perda de elementos como a umidade. A falta de lubrificação estimula a quebra e falta de maciez dos fios."
+        },
+        {
+          "titulo": "Manicure e Pedicure",
+          "mensagem": "Manicure e Pedicure são tratamentos e cuidados específicos realizados nas mãos e pés, respectivamente e estão intimamente relacionados com a beleza e saúde. Logo são tratamentos importantes por questões de imagem como também por motivos de saúde, porque estes são um reflexo do estado do nosso organismo."
+        },
+        {
+          "titulo": " Secagem",
+          "mensagem": "O secador de cabelo não serve só para… Secar o cabelo. Ele pode ser um instrumento importante para modelar suas mechas, trazer brilho e deixar a aparência mais saudável."
+        },
+        {
+          "titulo": "Hidratação + Escova",
+          "mensagem": "A hidratação capilar serve para repor a umidade natural, nutrientes e queratina perdida. São tratamentos a base de queratina, proteínas, vitaminas, extrato de seda, óleos vegetais, ceramidas, silicone e lanolina. A hidratação constante é uma grande aliada para manter os cabelos saudáveis, com brilho, sedosos e macios."
+        },
+        {
+          "titulo": " Sobrancelha",
+          "mensagem": ">As sobrancelhas devem sempre ser bem feitas afinal elas são fundamentais para a moldura dos olhos, assim como o cabelo é a moldura do rosto. E por isso elas devem ser feitas cuidadosamente de acordo com o formato de rosto O design de sobrancelhas vai traçar um modelo adequado para seu rosto, embora siga as medidas e o modelo ideal exato para cada tipo de rosto, respeita a vontade do cliente. Ao contrário do que muitas pessoas pensam, uma vez retirados, os pelos voltam a crescer. A moldagem da sobrancelha não é um trabalho tão simples como se imagina e deve ser feito de maneira adequada por um profissional realmente qualificado, com higiene e segurança. A manutenção da sobrancelha deve ser realizada de 15 em 15 dias."
+        },
+        {
+          "titulo": " Sobrancelha com Hena",
+          "mensagem": "É uma técnica que permite além de cobrir pelos brancos, preencher falhas e destacar o olhar e com isso o rosto, harmonizando-o. Por se tratar de um produto natural, livre de metais pesados, oxigenada e amoníaco, o risco de algum tipo de alergia é menor. Essa técnica só deve ser feita por um profissional qualificado, utilizando produtos desenvolvidos para esse fim."
+        },
+        {
+          "titulo": "Terapia Capilar"
+        },
+        {
+          "titulo": " Consulta Terapia Capilar",
+          "mensagem": "Por que procurar um profissional específico este tanto? A terapia capilar esta galgando espaço no mercado desde 1980 mas só depois dos adventos da queratinizacao e do formol frustados ... atingiu seu alvo principal ou seja os cabelos danificados. O terapeuta capilar precisa ser formado não apenas em estética capilar mas em saúde de um modo geral pois existem problemas que se manifestam nos cabelos mas são decorrentes de outras patologias. Dada a importância social e psicológica que as madeixas efetuam sobre seus proprietários cada vez mais eles também tem se preocupado com a beleza relacionada a saúde. Um terapeuta pode contribuir nos aspectos relevantes dos cabelos com o objetivo de torna-los bonitos."
+        },
+        {
+          "titulo": " CO2 Carbox",
+          "mensagem": "A pele possui camadas em seu conjunto que se entumecem conforme o nível de estresse de cada indivíduo e isso diminui o aporte vascular na na região produzindo um aumento na queda de cabelos. A infusão de co2 no couro cabeludo vai melhorar o aporte vascular na região tornando possível resultados positivos com relação a queda e as inflamações cutâneas"
+        },
+        {
+          "titulo": " Corrente Galvânica",
+          "mensagem": "Pouca gente conhece esse procedimento mas ele é altamente efetivo nos casos da dermatite seborreica ou excesso de oleosidade. Deve ser feita com uma frequência inicial e depois pode ser espaçada. É um procedimento que age como um coadjuvante também nos tratamentos de queda. A lavagem cosmética é o par perfeito para o uso da corrente galvânica porem para sua perfeita efetividade precisa de um menor intervalo. Na lavagem cosmética utilizamos um bactericida e uma solução de potencial calmante."
+        },
+        {
+          "titulo": " Tricoscopia - Exame",
+          "mensagem": ""
+        },
+        {
+          "titulo": " Microagulhamento",
+          "mensagem": ""
+        },
+        {
+          "titulo": " Polimero",
+          "mensagem": ""
+        },
+        {
+          "titulo": " Murumuru aquecido e pataua",
+          "mensagem": "Este é um processo totalmente orgânico e pode ser indicado aos casos de cabelos desidratados e enrijecidos por processos descolorante."
+        },
+        {
+          "titulo": "Corte bordado ou tricotherapy",
+          "mensagem": "Corte bordado ou tricotherapy como gostamos de chamar. É a solução para as pontas duplas nele são realizados 3 processos: o corte, a vit e o antioxidativo em creme. Deve ser repetido apenas a cada 30 dias e no máximo em 8 aplicações o problema estará extirpado."
+        },
+        {
+          "titulo": "Polivitamínicos",
+          "mensagem": "Polivitamínicos ou polímero Hidratar ou reconstruir .... os dois procedimentos são essenciais ao cabelo mas devem ser feitos sob o diagnóstico de um profissional criterioso ... estamos acostumados a cobrar estes processos quando estão em promoção mas não deveria ser assim. O polímero tem o objetivo de preparar e reparar os cabelos para os processos químicos e o polivitamínico seria o docinho da festa diríamos assim deve ser feito quinzenalmente dependendo do objetivo em que o profissional quer chegar"
+        }
+      ],
+      "estetica": [
+        {
+          "titulo": "Banho de Lua",
+          "mensagem": "O banho de lua é uma técnica que consiste em clarear os pelos do corpo, seja para estética, disfarça-los, como para destacar o bronzeado e ficar com a pele macia e hidratada"
+        },
+        {
+          "titulo": "Clareamento das Axilas a Laser",
+          "mensagem": "Na maioria dos casos, o escurecimento das axilas é uma tendência que já nasce com a pessoa. Sua ocorrência é mais comum em pessoas morenas. O tratamento é realizado em sessões espaçadas com intervalos de um mês que eliminam os pelos além de clarearem a pele da região."
+        },
+        {
+          "titulo": "Clareamento da Virilha",
+          "mensagem": "Clarear pele da virilha é uma das principais metas de várias mulheres, principalmente quando chega o verão. Quando a virilha está manchada dá não só um aspecto feio à pele, mas também de depilação mal feita. O mais interessante é que esse problema de escurecimento da virilha pode atingir tanto mulheres quanto homens. Por causa do excesso de melanina, as pessoas de pele negra têm maior propensão às manchas mais escuras na virilha."
+        },
+        {
+          "titulo": "Rejuvenecimento Facial a Laser",
+          "mensagem": "O processo natural de envelhecimento pode ser acelerado por fatores como exposição solar e deficiência hormonal (menopausa). O resultado é flacidez e enrugamento da pele (ocasionados pela perda de colágeno e ácido hialurônico) e surgimento de manchas, irregularidades e pele com coloração amarelada. Quando a pele se mostra muito danificada, os lasers são ótimas opções para renovação celular e estímulo de colágeno."
+        },
+        {
+          "titulo": "Manthus",
+          "mensagem": "Equipamento que associa ultrassom de grande potencia e correntes estéreo dinâmicas, tendo diversas indicações em estética: redução de gordura localizada,celulite,redução de hematomas e fibrose em pós-operatórios."
+        },
+        {
+          "titulo": "Manthus Lipossônica",
+          "mensagem": "O procedimento produz a quebra das moléculas de gordura e faz com que se convertam em ácido graxo e glicerol, direcionando-as para o sistema linfático, o que proporciona a drenagem e mobilização da linfa, eliminando líquidos e toxinas na hora."
+        },
+        {
+          "titulo": "Depilação Axila",
+          "mensagem": "O método consiste em retirar os pelos com a própria cera (sem papel). O produto pode ser à base de propriedades hidratantes das algas marinhas, repondo a umidade de sua pele, ou de mel."
+        },
+        {
+          "titulo": "Depilação do Buço",
+          "mensagem": "É indicado para quem tem a pele clara. Quanto mais morena a pessoa for, mais melanina o corpo produz. Assim, quando a cera é puxada, agride a pele e, como autodefesa, o corpo produz mais melanina naquela região, formando manchas."
+        },
+        {
+          "titulo": "Depilação do Mamilo",
+          "mensagem": ""
+        },
+        {
+          "titulo": ">Depilação Perna",
+          "mensagem": ""
+        },
+        {
+          "titulo": "Laser",
+          "mensagem": ""
+        },
+        {
+          "titulo": "Contorno",
+          "mensagem": ""
+        },
+        {
+          "titulo": "Hidratação e tratamento corporal",
+          "mensagem": "A hidratação corporal devolve a maciez, o viço e a elasticidade perdida, recuperando e iluminando a pele e sua capacidade de absorver ativos."
+        },
+        {
+          "titulo": "Peeling Ultrassônico",
+          "mensagem": "O peeling ultrassônico é um sistema de higienização e regeneração cutânea. Não utiliza correntes elétricas exercendo seus efeitos por microagitações ultrassônicas. Trata-se de um peeling muito superficial, totalmente indolor e que não danifica as camadas da pele."
+        },
+        {
+          "titulo": "Limpeza de pele manual",
+          "mensagem": "A limpeza de pele é um procedimento muito importante para remover impurezas, células mortas, cravos e espinhas, deve ser feita de forma periódica, devendo ser repetida de dois em dois meses para as pessoas com peles normais ou secas e pelo menos uma vez ao mês no caso de pelos com peles oleosas ou mistas ou que possuam um grande número de cravos."
+        },
+        {
+          "titulo": "Ventosa terapia",
+          "mensagem": "A ventosaterapia é um método de tratamento baseado também na Medicina Tradicional Chinesa. Vem sendo praticado há milhares de anos nos tratamentos de doenças e dor.Através da aplicação de copos de vidro ou plástico na superfície da pele, geramos uma sucção e uma pressão negativa. As ventosas retiram o excesso de líquido e toxinas, que são drenadas e trazidas para a superfície da pele para serem eliminadas, o sistema nervoso é estimulado, fazendo com que o sangue seja levado para os músculos, tendões e membranas, onde a energia se encontra estagnada."
+        },
+        {
+          "titulo": "Criolipólise",
+          "mensagem": "A máquina que congela gordura. É possível perder de 20% a 30% da gordura localizada na região tratada em uma primeira sessão. Desenvolvida por pesquisadores da Universidade de Harvard, nos Estados Unidos, a criolipólise usa baixas temperaturas para congelar a gordura localizada. O aparelho é colocado na superfície da pele, fazendo as células de gordura serem congeladas a temperaturas negativas para serem destruídas e posteriormente absorvidas e eliminadas pelo organismo."
+        },
+        {
+          "titulo": "Endermologia",
+          "mensagem": "A endermologia é uma técnica estética utilizada para eliminar a celulite e gordura localizada, especialmente na barriga, pernas e braços. É feita através de massagem linfática com um aparelho de vácuo e ultrassom que estimula o fluxo de sangue, desmancha os nódulos de celulite e elimina as toxinas."
+        },
+        {
+          "titulo": ">Máscara de hidratação de snaker",
+          "mensagem": ""
+        },
+        {
+          "titulo": "Power Plate",
+          "mensagem": "A vibração da plataforma ajuda a fortalecer os músculos. Enquanto a pessoa faz os exercícios em cima do aparelho, ele vibra de 30 a 60 vezes por segundo, provocando desequilíbrios e fazendo com que a pessoa use mais força para se manter na base."
+        },
+        {
+          "titulo": "Corrente Russa",
+          "mensagem": "É um estimulo elétrico, usado para produzir uma contração muscular, no local em que é aplicado. Com isso, pode haver melhora no tônus muscular e na flacidez da pele, além de estimular a circulação sanguínea, linfática e a oxigenação celular."
+        },
+        {
+          "titulo": "Peeling químico",
+          "mensagem": "Tratamento feito à base de ácidos, aplicados sobre a pele, que ajudam a retirar as camadas danificadas da pele e promover o crescimento de uma camada lisa."
+        },
+        {
+          "titulo": "Manta térmica",
+          "mensagem": "Trata-se de um equipamento que através do aquecimento e do infravermelho promove vários benefícios como: Vasodilatação (aumentando a circulação e oxigenação do tecido), aumenta a queima de gordura, aumenta o metabolismo, elimina toxinas e radicais livres (efeito detox), ajuda na permeação de ativos aplicados no corpo, melhora a elasticidade da pele, auxilia na perca de peso, ajuda a eliminar líquido e relaxa a musculatura."
+        },
+        {
+          "titulo": "Drenagem ultrassônica",
+          "mensagem": "Técnica que proporciona reduções significativas de medidas, o método consiste em combinar massagens com produtos desenvolvidos especialmente para o tratamento com o equipamento de ultrassom obtendo resultados imediatos."
+        },
+        {
+          "titulo": "Limpeza de pele a vácuo",
+          "mensagem": "A remoção dos cravos e espinhas é feita com o aparelho que suga as impurezas, com um equipamento à vácuo. Sendo assim, esse método é menos doloroso que o manual, onde o profissional deve espremer as acnes. Ambos deixam marcas pela face, sem falar em todo um cuidado depois do procedimento. O paciente deve usar sempre filtro solar, mesmo se o dia estiver nublado."
+        },
+        {
+          "titulo": "Peeling de Diamante",
+          "mensagem": "O peeling de diamante é um processo estético que promove uma microdermoabrasão nas camadas mais superficiais da pele por meio do uso de um equipamento específico cuja ponteira é feita com partículas de diamante. Assim, a pele sofre uma esfoliação que elimina as células mortas, promovendo um rejuvenescimento celular. Além disso, o peeling de diamante melhora e aumenta a produção de colágeno, substância fundamental para as fibras da pele."
+        },
+        {
+          "titulo": "Radiofrequência",
+          "mensagem": "A radiofrequência é um tratamento estético utilizado no combate à flacidez do rosto ou do corpo, sendo muito eficaz para eliminar rugas, linhas de expressão e até mesmo a gordura localizada e também a celulite, sendo um método seguro com efeitos duradouros."
+        },
+        {
+          "titulo": "Carboxiterapia",
+          "mensagem": "A carboxiterapia consiste na aplicação de injeções de gás sob a pele para eliminar marcas de celulite, estrias, gordura localizada e também para eliminar flacidez da pele. O gás da carboxiterapia funciona melhorando a circulação celular e a oxigenação dos tecidos."
+        },
+        {
+          "titulo": "Drenagem linfática facial",
+          "mensagem": "Repleta de benefícios e direcionada para objetivos preventivos, estéticos e terapêuticos, a drenagem linfática facial revitaliza a pele do rosto, ameniza as olheiras e trata hematomas decorrentes de traumas, doenças e cirurgias, pois estimula o sistema de defesa, a oxigenação dos tecidos e auxilia na eliminação de líquidos que ficam retidos."
+        },
+        {
+          "titulo": "Lifting Facial",
+          "mensagem": "É um tratamento estética para a retirada de rugas e flacidez. O lifting pode ser feito em diversas partes do corpo, mas é no rosto que ele é mais aplicado. O que o lifting faz é esticar a pele, refazendo assim um rosto com rugas e pele flácida. esse procedimento pode corrigir diferentes imperfeições e pode ser aplicado em uma ou mais partes do rosto."
+        },
+        {
+          "titulo": ">Microagulhamento Facial",
+          "mensagem": "Entre os mais novos métodos de tratamento para rejuvenescimento da pele está o Microagulhamento, procedimento estético que oferece a oportunidade de melhorar a aparência envelhecida por meio da redução de rugas, combate à flacidez facial, melhora da textura e aumento da luminosidade."
+        },
+        {
+          "titulo": "Laser Capilar",
+          "mensagem": "O Laser Capilar é um procedimento estético que tem como objetivo regenerar o bulbo capilar e estimular o folículo piloso, interrompendo, assim, a queda do cabelo e, uma vez que ele estará fortificado, ajuda os fios a voltarem a crescer."
+        },
+        {
+          "titulo": "Micropigmentação",
+          "mensagem": "A micropigmentação, por definição, é a implantação de pigmento na pele. Geralmente, esse tratamento é o mais recomendado para quem falhas na região dos olhos, boca ou sobrancelha. Com a micropigmentação de sobrancelhas fio a fio, é possível desenhar sobrancelhas, iluminar e corrigir falhas usando recursos de cores e espessura num processo muito parecido com o da maquiagem definitiva e aplicando um fio de cada vez, o que aumenta a impressão de naturalidade do processo."
+        },
+        {
+          "titulo": "Botox",
+          "mensagem": "O botox para uso estético é indicado para suavizar as rugas e linhas de expressão do rosto. Entre as linhas tratadas estão as rugas da testa, a glabela (espaço entre as sobrancelhas) e, os pés de galinha, rugas que se formam na região dos olhos."
+        },
+        {
+          "titulo": "Hidratação com argila",
+          "mensagem": ""
+        }
+      ]
+    }
+  ]
+}

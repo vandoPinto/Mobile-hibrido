@@ -1,0 +1,51 @@
+<ion-view cache-view="false" title="Promoções" id="page2" style="background-color:#444444;">
+  <ion-content padding="true" class="has-header">
+    <div>
+      <img src="img/HV9lqGjYQESQ9Y4wpky4_Logo-Clinica-Kenia-Saad_horizontal.png" style="display: block; width: 100%; height: auto; margin-left: auto; margin-right: auto;">
+    </div>
+    <div class="spacer" style="height: 60px;"></div>
+    <div id="promoEs-markdown92" style="text-align:center;" class="show-list-numbers-and-dots">
+      <p style="color:#FFFFFF;">Acompanhe aqui e nas redes sociais o melhor preço para você</p>
+    </div>
+    <h1 id="promoEs-heading11" style="color:#FFFFFF;font-weight:lighter;text-align:center;">Nossas principais ofertas do mês</h1>
+
+
+ <ion-refresher
+        pulling-text="Puxe para atualizar..."
+        on-refresh="doRefresh()">
+        </ion-refresher>
+
+    
+  <ion-list>
+        <div class="list card" id="promoEs-card267" ng-controller="promoEsCtrl" ng-repeat="texto in jsonTituloTextos.promocao">
+         
+
+
+
+          <ion-item id="promoEs-list-item105">{{texto.titulo}}</ion-item>
+          <div class="item item-body" id="promoEs-list-item-container64">
+            <div class="spacer" style="width: 268.008px; height: 30px;"></div>
+            <div id="promoEs-markdown94" style="text-align:center;" class="show-list-numbers-and-dots">
+              <p style="margin-top:0px;color:#000000;">
+                <strong>{{texto.preco}}</strong>
+              </p>
+            </div>
+            <div class="spacer" style="width: 268.008px; height: 30px;"></div>
+            <div id="promoEs-markdown95" style="text-align:center;" class="show-list-numbers-and-dots">
+              <p style="margin-top:0px;color:#000000;">{{texto.mensagem}}</p>
+            </div>
+             <div>
+              <img src={{texto.imagen}} style="display: block; width: 100%; height: auto; margin-left: auto; margin-right: auto;">
+            </div>
+
+           <!-- <div>
+              <a ui-sref="menu.reserva({ 'valor':texto })"  id="marcaPromocao" style="border-radius:1px 1px 1px 1px;" class="button button-balanced  button-block" ng-click="showBannerAd();">Fazer reserva</a>
+            </div>-->
+          </div>
+        </div>
+      </ion-list>
+
+<!--ui-sref="menu.reserva"-->
+
+  </ion-content>
+</ion-view>

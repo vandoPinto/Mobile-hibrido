@@ -1,0 +1,32 @@
+<ion-view title="Bem-Estar" id="page8" style="background-color:#444444;">
+  <ion-content padding="true" class="has-header">
+    <div>
+      <img src="img/DpOkl5SQfKTtNwVaR6lc_Logo-Clinica-Kenia-Saad_horizontal.png" style="display: block; width: 100%; height: auto; margin-left: auto; margin-right: auto;">
+    </div>
+    <div>
+      <img src="img/yOJhwBO9T9WgGG71Zhcx_bem-estar.jpg" style="display: block; width: 100%; height: auto; margin-left: auto; margin-right: auto;">
+    </div>
+    <h3 id="bemEstar-heading1" style="color:#FFFFFF;text-align:center;">Bem-estar</h3>
+    <div id="bemEstar-markdown8" style="text-align:center;" class="show-list-numbers-and-dots">
+      <p style="color:#FFFFFF;">Pensado para oferecer uma completa experiência sensorial, nossos tratamentos variam de massagens clássicas relaxantes, a tratamentos especiais que incluem revitalização facial e corporal, uma oportunidade de reencontrar a serenidade e o bem estar
+        em sua rotina. Nosso atendimento é personalizado, porque você é único. Equipe 100% atualizada com as tendências do mercado.</p>
+    </div>
+
+
+    <div class="spacer" style="width: 300px; height: 60px;"></div>
+
+     <div class="list card" id="salODeBeleza-card23" ng-controller="bemEstarCtrl" ng-repeat="texto in jsonTituloTextos.bemEstar">
+      <div id="salODeBeleza-container2">
+        <ion-list id="salODeBeleza-list12">
+          <ion-item id="salODeBeleza-list-item28">{{texto.titulo}}</ion-item>
+        </ion-list>
+      </div>
+      <div id="salODeBeleza-markdown22" style="text-align:center;" class="show-list-numbers-and-dots">
+        <p style="margin-top:0px;color:#000000;">{{texto.mensagem}}</p>
+      </div>
+    </div>
+
+
+
+  </ion-content>
+</ion-view>

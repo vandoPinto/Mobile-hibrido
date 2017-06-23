@@ -1,0 +1,42 @@
+<ion-view title="Sugestões - Trabalhe conosco" id="page4" style="background-color:#444444;">
+  <ion-content padding="true" class="has-header">
+    <div>
+      <img src="img/lJz7n3jQPe6eZQAX6NeQ_Logo-Clinica-Kenia-Saad_horizontal.png" style="display: block; width: 100%; height: auto; margin-left: auto; margin-right: auto;">
+    </div>
+    <div class="spacer" style="height: 30px;"></div>
+
+    <form id="sugestEsTrabalheConosco-form2" class="list" ng-controller ="mailto">
+      <label class="item item-input" id="sugestEsTrabalheConosco-input7" name="nome">
+        <span class="input-label">Nome:</span>
+        <input type="text" id="nome" placeholder="Digite seu nome">
+      </label>
+      <div class="spacer" style="height: 30px;"></div>
+      <label class="item item-input" id="sugestEsTrabalheConosco-input4" name="email">
+        <span class="input-label">Email:</span>
+        <input type="email" id="email" placeholder="Digite seu email">
+      </label>
+      <div class="spacer" style="height: 30px;"></div>
+      <label class="item item-input" id="sugestEsTrabalheConosco-input7" name="telefone">
+        <span class="input-label">Telefone</span>
+        <input type="tel" id="telefone" placeholder="(xx) xxxxx-xxxx">
+      </label>
+      <div class="spacer" style="height: 30px;"></div>
+      <label class="item item-input" id="sugestEsTrabalheConosco-input1" name="assunto">
+        <span class="input-label">Assunto:</span>
+        <input type="text" id="assunto" placeholder="Digite o assunto">
+      </label>
+      <div class="spacer" style="height: 30px;"></div>
+      <label class="item item-input" id="sugestEsTrabalheConosco-input6" name="mensagem">
+        <textarea id="mensagem" cols="40" rows="10" arial-invalid="false" placeholder="Mensagem:"></textarea>
+        
+      </label>
+      <div class="spacer" style="height: 60px;"></div>
+      <div>
+      <a id="sugestEsTrabalheConosco-button4" class="button button-balanced  button-block" ng-click="EnviarMensagem()" href="javascript:;">Enviar</a>
+    </div>
+   <!--   <a href='mailto:esteticakf@gmail.com?subject=Clinica Kênia saad &body=' id="sugestEsTrabalheConosco-button4" class="button button-balanced  button-block" ng-click="EnviarMensagem( document.getElementById('myTextarea').value )">Enviar</a>
+-->
+
+    </form>
+  </ion-content>
+</ion-view>
