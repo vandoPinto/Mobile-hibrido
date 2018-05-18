@@ -66,7 +66,7 @@ function ($scope, $stateParams) {
 	            });
 	             
 	        } catch (e) {
-	            alert(e);
+	            //alert(e);
 	        }       
 	    } 
 	}
@@ -101,7 +101,7 @@ function ($scope, $stateParams) {
             });
  
         } catch (e) {
-            alert(e);
+            //alert(e);
         }       
     }
      
@@ -118,7 +118,7 @@ function ($scope, $stateParams) {
             });
              
         } catch (e) {
-            alert(e);
+            //alert(e);
         }       
     }
 
@@ -192,7 +192,7 @@ function ($scope, $stateParams, jsonService, $rootScope) {
 	           autoShow:true
 	        } );
 	    }
-	  }else{alert('Não é Android');} 
+	  }else{/*alert('Não é Android');*/} 
 
 }])
    
@@ -215,7 +215,7 @@ function ($scope, $stateParams) {
 	           autoShow:true
 	        } );
 	    }
-	  }else{alert('Não é Android');}
+	  }else{/*alert('Não é Android');*/}
 
 }])
    
@@ -238,7 +238,7 @@ function ($scope, $stateParams) {
 	           autoShow:true
 	        } );
 	    }
-	  }else{alert('Não é Android');}
+	  }else{}
 
 }])
 
@@ -284,7 +284,7 @@ function ($scope, $stateParams) {
 	           autoShow:true
 	        } );
 	    }
-	  }else{alert('Não é Android');
+	  }else{
 	}
 
 
@@ -309,7 +309,7 @@ function ($scope, $stateParams) {
 	           autoShow:true
 	        } );
 	    }
-	  }else{alert('Não é Android');}
+	  }else{}
 
 }])
    
@@ -332,7 +332,7 @@ function ($scope, $stateParams) {
 	           autoShow:true
 	        } );
 	    }
-	  }else{alert('Não é Android');}
+	  }else{}
 
 }])
    
@@ -355,7 +355,7 @@ function ($scope, $stateParams) {
 	           autoShow:true
 	        } );
 	    }
-	  }else{alert('Não é Android');}
+	  }else{}
 
 }])
    
@@ -378,7 +378,7 @@ function ($scope, $stateParams) {
 	           autoShow:true
 	        } );
 	    }
-	  }else{alert('Não é Android');}
+	  }else{}
 
 }])
    
@@ -405,7 +405,7 @@ function ($scope, $stateParams, jsonService) {
 	           autoShow:true
 	        } );
 	    }
-	  }else{alert('Não é Android');}
+	  }else{}
 
 }])
    
@@ -433,7 +433,7 @@ function ($scope, $stateParams, jsonService) {
 	           autoShow:true
 	        } );
 	    }
-	  }else{alert('Não é Android');}
+	  }else{}
 
 }])
    
@@ -467,7 +467,7 @@ function ($scope, $stateParams, jsonService) {
 	           autoShow:true,
 	        } );
 	    }
-	  }else{alert('Não é Android');}
+	  }else{}
 
 }])
 
